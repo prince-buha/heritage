@@ -1,3 +1,31 @@
+/*
+
+6. WAP to read and print employee information with use of multilevel inheritance. (as like in below image)
+
+	Enter your id:-114
+Enter your name:-prince
+Enter your role:-maneger
+Enter your salary:-80000
+Enter your experience:-7
+enter your company name:-rnw
+enter your address:-abishekluxriya
+enter your email:-princebuha105@gmail.com
+enter your contact:-9725683070
+
+name is :prince
+role is :maneger
+salary is :80000
+id is :114
+name is :prince
+role is :maneger
+salary is :80000
+experience is :7
+company name is :rnw
+address is :abishekluxriya
+email is :princebuha105@gmail.com
+contact is :9725683070
+	*/
+
 #include<iostream>
 using namespace std;
 
