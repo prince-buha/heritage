@@ -22,7 +22,7 @@ class Daughter:public Mother{
 };
 int main(){
 	Daughter d;
-	d.Mother::getA();
+	d.getA();
 	d.getB();
 	return 0;
 }
